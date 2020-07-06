@@ -1,6 +1,6 @@
     [
         {
-            "dg": ["fac", "ac"],
+            "dg": ["fac", "ac", "fa"],
             "name": "Forbidden Arena Challenge",
             "ilvl":"461",
             "coins":"220",
@@ -9,7 +9,7 @@
             "color": "#d11141"
         },
         {
-            "dg": ["sky", "skynest", "kelsa"],
+            "dg": ["sky", "skynest", "kelsa", "ck", "ckn", "ckh", "cs", "csh", "csn"],
             "name": "Corrupted Skynest",
             "ilvl":"NM 461, HM 480",
             "coins":"NM 220, HM 250",
@@ -31,12 +31,12 @@
             "name": "Gossamer Vault",
             "ilvl":"NM 453, HM 457",
             "coins":"NM 245, HM 370",
-            "quest": 2166,
-            "instance": 3101,
+            "quest": 2167,
+            "instance": 3201,
             "color": "#d11141"
         },
         {
-            "dg": ["bs", "bahaar"],
+            "dg": ["bs", "bahaar", "baha"],
             "name": "Bahaar's Sanctum",
             "ilvl":"456",
             "coins":"295",
@@ -58,17 +58,17 @@
             "name": "Grotto of Lost Souls",
             "ilvl":"NM 444, HM 455",
             "coins":"NM 100, HM 190",
-            "quest": 2160,
-            "instance": 9782,
+            "quest": 2161,
+            "instance": 9982,
             "color": "#f37735"
         },
         {
-            "dg": ["aa", "aan", "aanm", "aah", "aahm"],
+            "dg": ["aa", "aan", "aanm", "aah", "aahm", "ai", "ain", "aih"],
             "name": "Antaroth's Abyss",
             "ilvl":"NM 445, HM 454",
             "coins":"NM 100, HM 145",
-            "quest": 2156,
-            "instance": 9720,
+            "quest": 2157,
+            "instance": 9920,
             "color": "#f37735"
         },
         {
@@ -187,5 +187,86 @@
             "quest": 2109,
             "instance": 9777,
             "color": "#00b159"
+        },
+		{
+            "dg": ["da","dan","dah"],
+            "name": "Draakon Arena",
+            "ilvl":"456",
+            "coins":"200",
+            "quest": 2173,
+            "instance": 3102,
+            "color": "#00b159"
+        },
+		{
+            "dg": ["hw", "home", "high"],
+            "name": "Highwatch",
+            "ilvl":"412",
+            "coins":"80",
+            "quest": 90331,
+            "instance": 3016,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["sm"],
+            "name": "SM",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800002,
+            "instance": 9088,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["sa"],
+            "name": "SA",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800003,
+            "instance": 9979,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["cr"],
+            "name": "CR",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800004,
+            "instance": 9089,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["nt"],
+            "name": "NT",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800005,
+            "instance": 9071,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["gl"],
+            "name": "GL",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800006,
+            "instance": 9072,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["lot"],
+            "name": "LoT",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800009,
+            "instance": 9076,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["et"],
+            "name": "ET",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800010,
+            "instance": 9073,
+            "color": "#d11141"
         }
     ]
