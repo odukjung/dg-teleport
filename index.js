@@ -5,7 +5,7 @@ module.exports = function DGTeleport(mod) {
     const dungeons = jsonRequire('./dungeon-list.json');
     mod.dispatch.addDefinition('C_REQUEST_EVENT_MATCHING_TELEPORT', 0, path.join(__dirname, 'C_REQUEST_EVENT_MATCHING_TELEPORT.0.def'));
 
-    cmd.add('dg', (value) => {
+    cmd.add(["dg", "go"], (value) => {
         if (value && value.length > 0) value = value.toLowerCase();
         if (value) {
             const dungeon = search(value);
