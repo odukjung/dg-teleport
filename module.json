@@ -1,6 +1,6 @@
 {
     "name": "dg-teleport",
-    "author": "edu, PsykoDev","odukjung",
+    "author": "edu, PsykoDev, odukjung",
     "description": "Fast teleport to every important dungeon",
     "options": {
         "niceName": "DG-Teleport"
