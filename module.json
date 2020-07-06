@@ -1,10 +1,10 @@
 {
     "name": "dg-teleport",
-    "author": "edu, PsykoDev",
+    "author": "edu, PsykoDev","odukjung",
     "description": "Fast teleport to every important dungeon",
     "options": {
         "niceName": "DG-Teleport"
     },
-    "servers": ["https://raw.githubusercontent.com/PsykoDev/dg-teleport/master/"],
+    "servers": [""],
     "disableAutoUpdate": false
 }
