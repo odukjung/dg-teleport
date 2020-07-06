@@ -2,9 +2,9 @@
 Fast teleport to every important dungeon with GUI or not
 
 ## Usage
-### `dg`
+### `dg` | `go`
 - Bring the GUI with dungeon list
-### `dg "name"`
+### `dg|go "name"`
 - Instant teleport to dungeon entrance
 
 ## DG-List
