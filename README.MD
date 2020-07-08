@@ -1,6 +1,9 @@
 # dg-teleport
 Fast teleport to every important dungeon with GUI or not
 
+# Opcode for EU 95.4
+C_REQUEST_EVENT_MATCHING_TELEPORT = 38766
+
 ## Usage
 ### `dg` | `go`
 - Bring the GUI with dungeon list
