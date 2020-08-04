@@ -268,5 +268,32 @@
             "quest": 800010,
             "instance": 9073,
             "color": "#d11141"
+        },
+		{
+            "dg": ["bam"],
+            "name": "bam",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 2329,
+            "instance": 13,
+            "color": "#d11141"
+        },
+				{
+            "dg": ["event1", "sun"],
+            "name": "Sun Feslival",
+            "ilvl":"1",
+            "coins":"0",
+            "quest": 7001,
+            "instance": 230,
+            "color": "#d11141"
+        },
+				{
+            "dg": ["event2", "bp"],
+            "name": "Beach Party",
+            "ilvl":"1",
+            "coins":"0",
+            "quest": 7003,
+            "instance": 210,
+            "color": "#d11141"
         }
     ]
