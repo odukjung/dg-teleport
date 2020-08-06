@@ -4,8 +4,8 @@ Fast teleport to every important dungeon with GUI or not
 # Update 08/04/2020
 - add teleport to Sun Feslival & Beach Party event
 
-# Opcode for EU 95.05
-C_REQUEST_EVENT_MATCHING_TELEPORT = 36407
+# Opcode for EU 97.3
+C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
 
 ## Usage
 ### `dg` | `go`
