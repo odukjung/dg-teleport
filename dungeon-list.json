@@ -295,5 +295,14 @@
             "quest": 7003,
             "instance": 210,
             "color": "#d11141"
+        },
+				{
+            "dg": ["ren", "re"],
+            "name": "Rift Rdge",
+            "ilvl":"70",
+            "coins":"150",
+            "quest": 2104,
+            "instance": 9750,
+            "color": "#d11141"
         }
     ]
