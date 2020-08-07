@@ -1,8 +1,8 @@
 # dg-teleport
 Fast teleport to every important dungeon with GUI or not
 
-# Update 08/04/2020
-- add teleport to Sun Feslival & Beach Party event
+# Update 08/07/2020
+- add teleport to Rift Rdge
 
 # Opcode for EU 97.3
 C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
