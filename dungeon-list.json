@@ -299,10 +299,19 @@
 				{
             "dg": ["ren", "re"],
             "name": "Rift Rdge",
-            "ilvl":"70",
+            "ilvl":"452",
             "coins":"150",
             "quest": 2104,
             "instance": 9750,
+            "color": "#d11141"
+        },
+				{
+            "dg": ["raid", "cr20", "raid20"],
+            "name": "Commander Residence",
+            "ilvl":"450",
+            "coins":"300",
+            "quest": 98356,
+            "instance": 2050,
             "color": "#d11141"
         }
     ]
