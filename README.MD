@@ -3,7 +3,7 @@ Fast teleport to every important dungeon with GUI or not
 
 # Update 08/09/2020
 - add teleport to Rift Rdge
-- add teleport to Commander Residence
+- add teleport to Commander Residence (Raid 20 man)
 
 # Opcode for EU 97.3
 C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
