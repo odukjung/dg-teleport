@@ -3,6 +3,7 @@ Fast teleport to every important dungeon with GUI or not
 
 # Update 08/07/2020
 - add teleport to Rift Rdge
+- add teleport to Commander Residence
 
 # Opcode for EU 97.3
 C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
@@ -31,3 +32,5 @@ C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
 - Low LvL DG [sm,sa,cr,nt,gl,lot,et]
 - Sun Feslival ["event1", "sun"]
 - Beach Party ["event2", "bp"]
+- Rift Rdge ["ren", "re"]
+- Commander Residence ["raid", "cr20", "raid20"]
