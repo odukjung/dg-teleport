@@ -1,7 +1,7 @@
 # dg-teleport
 Fast teleport to every important dungeon with GUI or not
 
-# Update 08/09/2020
+# Update 08/28/2020
 - add teleport to Kezzel Gorge
 
 # Opcode for EU 98.02
