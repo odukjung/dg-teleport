@@ -2,10 +2,9 @@
 Fast teleport to every important dungeon with GUI or not
 
 # Update 08/09/2020
-- add teleport to Rift Rdge
-- add teleport to Commander Residence (Raid 20 man)
+- add teleport to Kezzel Gorge
 
-# Opcode for EU 97.3
+# Opcode for EU 98.02
 C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
 
 ## Usage
@@ -34,3 +33,4 @@ C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
 - Beach Party ["event2", "bp"]
 - Rift Rdge ["ren", "re"]
 - Commander Residence ["raid", "cr20", "raid20"]
+- Kezzel Gorge ["kg"]
