@@ -313,5 +313,14 @@
             "quest": 98356,
             "instance": 2050,
             "color": "#d11141"
+        },
+				{
+            "dg": ["kg"],
+            "name": "Kezzel Gorge",
+            "ilvl":"452",
+            "coins":"150",
+            "quest": 2175,
+            "instance": 9053,
+            "color": "#d11141"
         }
     ]
