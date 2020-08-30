@@ -11,10 +11,10 @@ C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
 ## Usage
 ### `dg` | `go`
 - Bring the GUI with dungeon list
-### `dg|go "name"`
+### `dg|go "name"` *rr, rk, fa, ... etc.
 - Instant teleport to dungeon entrance
-### `dg|go vg"name"` *vgrr, vgrk, vgfa, .... etc.
-- Instant teleport to dungeon entrance
+### `dg|go vg"name"` *vgrr, vgrk, vgfa, ... etc.
+- Instant teleport to dungeon entrance for VG 16/16
 
 ## DG-List
 - Bahaar's Sanctum ["bs", "bahaar", "baha"]
