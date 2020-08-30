@@ -1,8 +1,9 @@
 # dg-teleport
 Fast teleport to every important dungeon with GUI or not
 
-# Update 08/28/2020
-- add teleport to Kezzel Gorge
+# Update 08/30/2020
+- Delete Dungeon not available
+- Add Command for VG 16/16
 
 # Opcode for EU 98.02
 C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
@@ -11,6 +12,8 @@ C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
 ### `dg` | `go`
 - Bring the GUI with dungeon list
 ### `dg|go "name"`
+- Instant teleport to dungeon entrance
+### `dg|go vg"name"` *vgrr, vgrk, vgfa, .... etc.
 - Instant teleport to dungeon entrance
 
 ## DG-List
