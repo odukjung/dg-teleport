@@ -2,8 +2,8 @@
         {
             "dg": ["fac", "ac", "fa"],
             "name": "Forbidden Arena Challenge",
-            "ilvl":"461",
-            "coins":"220",
+            "ilvl":"Old 461, NM 461, HM 480",
+            "coins":"Old 250, NM 250, HM 250",
             "quest": 2171,
             "instance": 3027,
             "color": "#d11141"
@@ -12,52 +12,61 @@
             "dg": ["sky", "skynest", "kelsa", "ck", "ckn", "ckh", "cs", "csh", "csn"],
             "name": "Corrupted Skynest",
             "ilvl":"NM 461, HM 480",
-            "coins":"NM 220, HM 250",
+            "coins":"NM 250, HM 250",
             "quest": 2169,
             "instance": 3026,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["bs", "bahaar", "baha"],
+            "name": "Bahaar's Sanctum",
+            "ilvl":"NM 461",
+            "coins":"NM 250",
+            "quest": 2162,
+            "instance": 9044,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["rk", "rkn", "rknm", "rkh", "rkhm"],
+            "name": "RK-9 Kennel",
+            "ilvl":"NM 452, HM 461",
+            "coins":"NM 150, HM 330",
+            "quest": 2152,
+            "instance": 9735,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["da","dan","dah"],
+            "name": "Draakon Arena",
+            "ilvl":"NM 456, HM 470",
+            "coins":"NM 200, HM 250",
+            "quest": 2173,
+            "instance": 3102,
             "color": "#d11141"
         },
         {
             "dg": ["aq"],
             "name": "Akalath Quarantine",
-            "ilvl":"458",
-            "coins":"385",
+            "ilvl":"NM 456",
+            "coins":"NM 200",
             "quest": 2168,
             "instance": 3023,
-            "color": "#d11141"
+            "color": "#f37735"
         },
         {
             "dg": ["gv", "gvn", "gvh"],
             "name": "Gossamer Vault",
-            "ilvl":"NM 453, HM 457",
-            "coins":"NM 245, HM 370",
+            "ilvl":"HM 456",
+            "coins":"HM 200",
             "quest": 2167,
             "instance": 3201,
-            "color": "#d11141"
-        },
-        {
-            "dg": ["bs", "bahaar", "baha"],
-            "name": "Bahaar's Sanctum",
-            "ilvl":"456",
-            "coins":"295",
-            "quest": 2162,
-            "instance": 9044,
-            "color": "#d11141"
-        },
-        {
-            "dg": ["df", "dfn", "dfnm", "dfh", "dfhm"],
-            "name": "Demokron Factory",
-            "ilvl":"NM 453, HM 456",
-            "coins":"NM 220, HM 330",
-            "quest": 2124,
-            "instance": 9767,
             "color": "#f37735"
         },
         {
             "dg": ["gls", "glsn", "glsnm", "glsh", "glshm"],
             "name": "Grotto of Lost Souls",
-            "ilvl":"NM 444, HM 455",
-            "coins":"NM 100, HM 190",
+            "ilvl":"HM 456",
+            "coins":"HM 200",
             "quest": 2161,
             "instance": 9982,
             "color": "#f37735"
@@ -65,137 +74,65 @@
         {
             "dg": ["aa", "aan", "aanm", "aah", "aahm", "ai", "ain", "aih"],
             "name": "Antaroth's Abyss",
-            "ilvl":"NM 445, HM 454",
-            "coins":"NM 100, HM 145",
+            "ilvl":"HM 456",
+            "coins":"HM 200",
             "quest": 2157,
             "instance": 9920,
             "color": "#f37735"
         },
-        {
-            "dg": ["fi", "fin", "finm", "fih", "fihm"],
-            "name": "Forsaken Island",
-            "ilvl":"NM 438, HM 453",
-            "coins":"NM 75, HM 150",
-            "quest": 1667,
-            "instance": 9059,
-            "color": "#f37735"
-        },
-        {
-            "dg": ["rk", "rkn", "rknm", "rkh", "rkhm"],
-            "name": "RK-9 Kennel",
-            "ilvl":"NM 442, HM 453",
-            "coins":"NM 90, HM 145",
-            "quest": 2152,
-            "instance": 9735,
-            "color": "#ffc425"
-        },
-        {
-            "dg": ["rm", "rmn", "rmnm", "rmh", "rmhm"],
-            "name": "Ruinous Manor",
-            "ilvl":"NM 441, HM 451",
-            "coins":"NM 90, HM 125",
-            "quest": 2137,
-            "instance": 9770,
-            "color": "#ffc425"
-        },
-        {
-            "dg": ["vs", "vsn", "vsnm", "vsh", "vshm"],
-            "name": "Velik's Sanctuary",
-            "ilvl":"NM 443, HM 450",
-            "coins":"NM 90, HM 125",
-            "quest": 2142,
-            "instance": 9781,
-            "color": "#ffc425"
-        },
-        {
-            "dg": ["mc"],
-            "name": "Macellarious Catacombs",
-            "ilvl":"440",
-            "coins":"285",
-            "quest": 2101,
-            "instance": 9809,
+		{
+            "dg": ["kg"],
+            "name": "Kezzel Gorge",
+            "ilvl":"NM 452",
+            "coins":"NM 150",
+            "quest": 2175,
+            "instance": 9053,
             "color": "#00aedb"
         },
-        {
-            "dg": ["ss", "ssn", "ssnm", "ssh", "sshm"],
-            "name": "Shadow Sanguinary",
-            "ilvl":"437",
-            "coins":"80",
-            "quest": 2126,
-            "instance": 9768,
-            "color": "#00aedb"
-        },
-        {
-            "dg": ["dr", "drc"],
-            "name": "Dark Reach Citadel",
-            "ilvl":"436",
-            "coins":"80",
-            "quest": 2158,
-            "instance": 9783,
-            "color": "#00aedb"
-        },
-        {
+		{
             "dg": ["rr"],
             "name": "Red Refuge",
-            "ilvl":"436",
-            "coins":"80",
+            "ilvl":"NM 452",
+            "coins":"NM 150",
             "quest": 2154,
             "instance": 9739,
             "color": "#00aedb"
         },
         {
-            "dg": ["lk"],
-            "name": "Lilith's Keep",
-            "ilvl":"431",
-            "coins":"70",
-            "quest": 2133,
-            "instance": 9769,
+            "dg": ["vs", "vsn", "vsnm", "vsh", "vshm"],
+            "name": "Velik's Sanctuary",
+            "ilvl":"NM 446",
+            "coins":"NM 100",
+            "quest": 2142,
+            "instance": 9781,
             "color": "#00aedb"
         },
-        {
+		{
             "dg": ["vh"],
             "name": "Velik's Hold",
-            "ilvl":"431",
-            "coins":"70",
+            "ilvl":"NM 446",
+            "coins":"NM 100",
             "quest": 2140,
             "instance": 9780,
             "color": "#00aedb"
         },
         {
-            "dg": ["tr"],
-            "name": "Thaumetal Refinery",
-            "ilvl":"431",
-            "coins":"70",
-            "quest": 2147,
-            "instance": 9794,
+            "dg": ["mc"],
+            "name": "Macellarious Catacombs",
+            "ilvl":"NM 444",
+            "coins":"NM 80",
+            "quest": 2101,
+            "instance": 9809,
             "color": "#00aedb"
         },
-        {
-            "dg": ["rg"],
-            "name": "Ravenous Gorge",
-            "ilvl":"412",
-            "coins":"60",
-            "quest": 2150,
-            "instance": 9055,
-            "color": "#00b159"
-        },
-        {
-            "dg": ["cw"],
-            "name": "Channelworks",
-            "ilvl":"412",
-            "coins":"60",
-            "quest": 2109,
-            "instance": 9777,
-            "color": "#00b159"
-        },
 		{
-            "dg": ["da","dan","dah"],
-            "name": "Draakon Arena",
-            "ilvl":"456",
-            "coins":"200",
-            "quest": 2173,
-            "instance": 3102,
-            "color": "#00b159"
+            "dg": ["raid", "cr20", "raid20"],
+            "name": "Commander Residence",
+            "ilvl":"NM 450",
+            "coins":"NM 300",
+            "quest": 98356,
+            "instance": 2050,
+            "color": "#ffc425"
         },
 		{
             "dg": ["hw", "home", "high"],
@@ -204,70 +141,7 @@
             "coins":"80",
             "quest": 90331,
             "instance": 3016,
-            "color": "#d11141"
-        },
-		{
-            "dg": ["sm"],
-            "name": "SM",
-            "ilvl":"1",
-            "coins":"40",
-            "quest": 800002,
-            "instance": 9088,
-            "color": "#d11141"
-        },
-		{
-            "dg": ["sa"],
-            "name": "SA",
-            "ilvl":"1",
-            "coins":"40",
-            "quest": 800003,
-            "instance": 9979,
-            "color": "#d11141"
-        },
-		{
-            "dg": ["cr"],
-            "name": "CR",
-            "ilvl":"1",
-            "coins":"40",
-            "quest": 800004,
-            "instance": 9089,
-            "color": "#d11141"
-        },
-		{
-            "dg": ["nt"],
-            "name": "NT",
-            "ilvl":"1",
-            "coins":"40",
-            "quest": 800005,
-            "instance": 9071,
-            "color": "#d11141"
-        },
-		{
-            "dg": ["gl"],
-            "name": "GL",
-            "ilvl":"1",
-            "coins":"40",
-            "quest": 800006,
-            "instance": 9072,
-            "color": "#d11141"
-        },
-		{
-            "dg": ["lot"],
-            "name": "LoT",
-            "ilvl":"1",
-            "coins":"40",
-            "quest": 800009,
-            "instance": 9076,
-            "color": "#d11141"
-        },
-		{
-            "dg": ["et"],
-            "name": "ET",
-            "ilvl":"1",
-            "coins":"40",
-            "quest": 800010,
-            "instance": 9073,
-            "color": "#d11141"
+            "color": "#ffc425"
         },
 		{
             "dg": ["bam"],
@@ -276,51 +150,260 @@
             "coins":"40",
             "quest": 2329,
             "instance": 13,
-            "color": "#d11141"
+            "color": "#ffc425"
         },
-				{
+		{
             "dg": ["event1", "sun"],
             "name": "Sun Feslival",
             "ilvl":"1",
             "coins":"0",
             "quest": 7001,
             "instance": 230,
-            "color": "#d11141"
+            "color": "#ffc425"
         },
-				{
+		{
             "dg": ["event2", "bp"],
             "name": "Beach Party",
             "ilvl":"1",
             "coins":"0",
             "quest": 7003,
             "instance": 210,
+            "color": "#ffc425"
+        },
+		
+		{
+            "dg": ["vgfac", "vgac", "vgfa"],
+            "name": "0 VG - Forbidden Arena Challenge",
+            "ilvl":"Old 461, NM 461, HM 480",
+            "coins":"Old 250, NM 250, HM 250",
+            "quest": 92171,
+            "instance": 3027,
             "color": "#d11141"
         },
-				{
-            "dg": ["ren", "re"],
-            "name": "Rift Rdge",
-            "ilvl":"452",
-            "coins":"150",
-            "quest": 2104,
-            "instance": 9750,
+        {
+            "dg": ["vgsky", "vgskynest", "vgkelsa", "vgck", "vgckn", "vgckh", "vgcs", "vgcsh", "vgcsn"],
+            "name": "0 VG - Corrupted Skynest",
+            "ilvl":"NM 461, HM 480",
+            "coins":"NM 250, HM 250",
+            "quest": 92169,
+            "instance": 3026,
             "color": "#d11141"
         },
-				{
-            "dg": ["raid", "cr20", "raid20"],
-            "name": "Commander Residence",
-            "ilvl":"450",
-            "coins":"300",
-            "quest": 98356,
-            "instance": 2050,
+		{
+            "dg": ["vgbs", "vgbahaar", "vgbaha"],
+            "name": "0 VG - Bahaar's Sanctum",
+            "ilvl":"NM 461",
+            "coins":"NM 250",
+            "quest": 92159,
+            "instance": 9044,
             "color": "#d11141"
         },
-				{
-            "dg": ["kg"],
-            "name": "Kezzel Gorge",
-            "ilvl":"452",
-            "coins":"150",
-            "quest": 2175,
+		{
+            "dg": ["vgrk", "vgrkn", "vgrknm", "vgrkh", "vgrkhm"],
+            "name": "0 VG - RK-9 Kennel",
+            "ilvl":"NM 452, HM 461",
+            "coins":"NM 150, HM 330",
+            "quest": 92149,
+            "instance": 9735,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["vgda","vgdan","vgdah"],
+            "name": "0 VG - Draakon Arena",
+            "ilvl":"NM 456, HM 470",
+            "coins":"NM 200, HM 250",
+            "quest": 92173,
+            "instance": 3102,
+            "color": "#d11141"
+        },
+        {
+            "dg": ["vgaq"],
+            "name": "0 VG - Akalath Quarantine",
+            "ilvl":"NM 456",
+            "coins":"NM 200",
+            "quest": 92168,
+            "instance": 3023,
+            "color": "#f37735"
+        },
+        {
+            "dg": ["vggv", "vggvn", "vggvh"],
+            "name": "0 VG - Gossamer Vault",
+            "ilvl":"HM 456",
+            "coins":"HM 200",
+            "quest": 92167,
+            "instance": 3201,
+            "color": "#f37735"
+        },
+        {
+            "dg": ["vggls", "vgglsn", "vgglsnm", "vgglsh", "vgglshm"],
+            "name": "0 VG - Grotto of Lost Souls",
+            "ilvl":"HM 456",
+            "coins":"HM 200",
+            "quest": 92158,
+            "instance": 9982,
+            "color": "#f37735"
+        },
+        {
+            "dg": ["vgaa", "vgaan", "vgaanm", "vgaah", "vgaahm", "vgai", "vgain", "vgaih"],
+            "name": "0 VG - Antaroth's Abyss",
+            "ilvl":"HM 456",
+            "coins":"HM 200",
+            "quest": 92154,
+            "instance": 9920,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["vgkg"],
+            "name": "0 VG - Kezzel Gorge",
+            "ilvl":"NM 452",
+            "coins":"NM 150",
+            "quest": 92175,
             "instance": 9053,
-            "color": "#d11141"
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["vgrr"],
+            "name": "0 VG - Red Refuge",
+            "ilvl":"NM 452",
+            "coins":"NM 150",
+            "quest": 92151,
+            "instance": 9739,
+            "color": "#00aedb"
+        },
+        {
+            "dg": ["vgvs", "vgvsn", "vgvsnm", "vgvsh", "vgvshm"],
+            "name": "0 VG - Velik's Sanctuary",
+            "ilvl":"NM 446",
+            "coins":"NM 100",
+            "quest": 92139,
+            "instance": 9781,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["vgvh"],
+            "name": "0 VG - Velik's Hold",
+            "ilvl":"NM 446",
+            "coins":"NM 100",
+            "quest": 92137,
+            "instance": 9780,
+            "color": "#00aedb"
+        },
+        {
+            "dg": ["vgmc"],
+            "name": "0 VG - Macellarious Catacombs",
+            "ilvl":"NM 444",
+            "coins":"NM 80",
+            "quest": 92101,
+            "instance": 9809,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["vgraid", "vgcr20", "vgraid20"],
+            "name": "0 VG - Commander Residence",
+            "ilvl":"NM 450",
+            "coins":"NM 300",
+            "quest": 92176,
+            "instance": 3030,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["vghw", "vghome", "vghigh"],
+            "name": "0 VG - Highwatch",
+            "ilvl":"412",
+            "coins":"80",
+            "quest": 90332,
+            "instance": 3016,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["vgbam"],
+            "name": "0 VG - bam",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 92328,
+            "instance": 13,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["vgevent1", "vgsun"],
+            "name": "0 VG - Sun Feslival",
+            "ilvl":"1",
+            "coins":"0",
+            "quest": 97001,
+            "instance": 230,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["vgevent2", "vgbp"],
+            "name": "0 VG - Beach Party",
+            "ilvl":"1",
+            "coins":"0",
+            "quest": 97003,
+            "instance": 210,
+            "color": "#ffc425"
+        },
+		
+		{
+            "dg": ["sm"],
+            "name": "SM",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800002,
+            "instance": 9088,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["sa"],
+            "name": "SA",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800003,
+            "instance": 9979,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["cr"],
+            "name": "CR",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800004,
+            "instance": 9089,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["nt"],
+            "name": "NT",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800005,
+            "instance": 9071,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["gl"],
+            "name": "GL",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800006,
+            "instance": 9072,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["lot"],
+            "name": "LoT",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800009,
+            "instance": 9076,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["et"],
+            "name": "ET",
+            "ilvl":"1",
+            "coins":"40",
+            "quest": 800010,
+            "instance": 9073,
+            "color": "#00aedb"
         }
     ]
