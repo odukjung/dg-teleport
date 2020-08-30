@@ -1,7 +1,7 @@
 {
+    "disableAutoUpdate": false,
     "name": "dg-teleport",
     "author": "edu, PsykoDev, odukjung",
     "description": "Fast teleport to every important dungeon",
-	"disableAutoUpdate": false,
-	"servers": [""]
+    "servers": [""]
 }
