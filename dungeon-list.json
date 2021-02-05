@@ -58,6 +58,15 @@
             "name": "Gossamer Vault",
             "ilvl":"HM 456",
             "coins":"HM 200",
+            "quest": 2166,
+            "instance": 3101,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["gvold", "gvnold", "gvhold"],
+            "name": "Gossamer Vault Old",
+            "ilvl":"HM 456",
+            "coins":"HM 200",
             "quest": 2167,
             "instance": 3201,
             "color": "#f37735"
@@ -116,6 +125,24 @@
             "instance": 9780,
             "color": "#00aedb"
         },
+		{
+            "dg": ["cc", "cat"],
+            "name": "Catalepticon",
+            "ilvl":"NM 444",
+            "coins":"NM 80",
+            "quest": 2181,
+            "instance": 3104,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["rm", "rmh"],
+            "name": "Ruinous Manor",
+            "ilvl":"NM 444",
+            "coins":"NM 80",
+            "quest": 2137,
+            "instance": 9770,
+            "color": "#00aedb"
+        },
         {
             "dg": ["mc"],
             "name": "Macellarious Catacombs",
@@ -168,6 +195,24 @@
             "coins":"0",
             "quest": 7003,
             "instance": 210,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["save", "hide"],
+            "name": "xxxx",
+            "ilvl":"1",
+            "coins":"0",
+            "quest": 98355,
+            "instance": 2000,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["sc", "sch"],
+            "name": "Sky Cruiser HM",
+            "ilvl":"HM 484",
+            "coins":"230",
+            "quest": 2180,
+            "instance": 3036,
             "color": "#ffc425"
         },
 		
@@ -226,12 +271,21 @@
             "color": "#f37735"
         },
         {
-            "dg": ["vggv", "vggvn", "vggvh"],
-            "name": "0 VG - Gossamer Vault",
+            "dg": ["vggvold", "vggvnold", "vggvhold"],
+            "name": "0 VG - Gossamer Vault old",
             "ilvl":"HM 456",
             "coins":"HM 200",
             "quest": 92167,
             "instance": 3201,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["vggv", "vggvn", "vggvh"],
+            "name": "0 VG - Gossamer Vault",
+            "ilvl":"HM 456",
+            "coins":"HM 200",
+            "quest": 92166,
+            "instance": 3101,
             "color": "#f37735"
         },
         {
@@ -286,6 +340,24 @@
             "coins":"NM 100",
             "quest": 92137,
             "instance": 9780,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["vgcc", "vgcat"],
+            "name": "Catalepticon",
+            "ilvl":"NM 444",
+            "coins":"NM 80",
+            "quest": 92181,
+            "instance": 3104,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["vgrm", "vgrmh"],
+            "name": "Ruinous Manor",
+            "ilvl":"NM 444",
+            "coins":"NM 80",
+            "quest": 92134,
+            "instance": 9770,
             "color": "#00aedb"
         },
         {
