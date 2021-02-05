@@ -5,7 +5,7 @@ Fast teleport to every important dungeon with GUI or not
 - Delete Dungeon not available
 - Add Command for VG 16/16
 
-# Opcode for EU 99.2
+# Opcode for EU 102
 C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
 
 ## Usage
