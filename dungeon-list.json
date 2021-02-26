@@ -90,7 +90,7 @@
             "color": "#f37735"
         },
 		{
-            "dg": ["kg"],
+            "dg": ["kgg"],
             "name": "Kezzel Gorge",
             "ilvl":"NM 452",
             "coins":"NM 150",
@@ -135,6 +135,15 @@
             "color": "#00aedb"
         },
 		{
+            "dg": ["kg", "kgh"],
+            "name": "Killing Grounds",
+            "ilvl":"NM 444",
+            "coins":"NM 80",
+            "quest": 2185,
+            "instance": 3106,
+            "color": "#00aedb"
+        },
+		{
             "dg": ["rm", "rmh"],
             "name": "Ruinous Manor",
             "ilvl":"NM 444",
@@ -174,8 +183,8 @@
             "dg": ["bam"],
             "name": "bam",
             "ilvl":"1",
-            "coins":"40",
-            "quest": 2329,
+            "coins":"0",
+            "quest": 2328,
             "instance": 13,
             "color": "#ffc425"
         },
@@ -307,7 +316,7 @@
             "color": "#f37735"
         },
 		{
-            "dg": ["vgkg"],
+            "dg": ["vgkgg"],
             "name": "0 VG - Kezzel Gorge",
             "ilvl":"NM 452",
             "coins":"NM 150",
@@ -349,6 +358,15 @@
             "coins":"NM 80",
             "quest": 92181,
             "instance": 3104,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["vgkg", "vgkgh"],
+            "name": "Killing Grounds",
+            "ilvl":"NM 444",
+            "coins":"NM 80",
+            "quest": 92185,
+            "instance": 3106,
             "color": "#00aedb"
         },
 		{
