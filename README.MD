@@ -1,13 +1,11 @@
 # dg-teleport
 Fast teleport to every important dungeon with GUI or not
 
-# Update 08/30/2020
-- Add Gossamer Vault (Easy) "gv", "gvn", "gvh"
-- Add Catalepticon "cc", "cat"
-- Add Ruinous Manor "rm", "rmh"
+# Update 02/26/2021
+- Add Killing Grounds "kg", "kgh"
 
-# Opcode for EU 102
-C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
+# Opcode for EU 103
+C_REQUEST_EVENT_MATCHING_TELEPORT = 49982
 
 ## Usage
 ### `dg` | `go`
@@ -37,7 +35,8 @@ C_REQUEST_EVENT_MATCHING_TELEPORT = 33555
 - Beach Party ["event2", "bp"] (ded)
 - Rift Rdge ["ren", "re"] (ded)
 - Commander Residence ["raid", "cr20", "raid20"] (ded)
-- Kezzel Gorge ["kg"] (ded)
+- Kezzel Gorge ["kgg"]
 - Gossamer Vault (Easy) "gv", "gvn", "gvh"
 - Catalepticon "cc", "cat"
 - Ruinous Manor "rm", "rmh"
+- Killing Grounds "kg", "kgh"
