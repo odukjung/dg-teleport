@@ -31,8 +31,8 @@
             "name": "RK-9 Kennel",
             "ilvl":"NM 452, HM 461",
             "coins":"NM 150, HM 330",
-            "quest": 2152,
-            "instance": 9735,
+            "quest": 2177,
+            "instance": 3034,
             "color": "#d11141"
         },
 		{
@@ -51,6 +51,15 @@
             "coins":"NM 200",
             "quest": 2168,
             "instance": 3023,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["dc","drc"],
+            "name": "Damned Citadel",
+            "ilvl":"NM 456",
+            "coins":"NM 200",
+            "quest": 2186,
+            "instance": 3041,
             "color": "#f37735"
         },
         {
@@ -105,6 +114,15 @@
             "coins":"NM 150",
             "quest": 2154,
             "instance": 9739,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["mm"],
+            "name": "Manglemire",
+            "ilvl":"NM 452",
+            "coins":"NM 150",
+            "quest": 2129,
+            "instance": 9070,
             "color": "#00aedb"
         },
         {
@@ -257,8 +275,8 @@
             "name": "0 VG - RK-9 Kennel",
             "ilvl":"NM 452, HM 461",
             "coins":"NM 150, HM 330",
-            "quest": 92149,
-            "instance": 9735,
+            "quest": 92177,
+            "instance": 3034,
             "color": "#d11141"
         },
 		{
@@ -277,6 +295,15 @@
             "coins":"NM 200",
             "quest": 92168,
             "instance": 3023,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["vgdc","vgdrc"],
+            "name": "Damned Citadel",
+            "ilvl":"NM 456",
+            "coins":"NM 200",
+            "quest": 92186,
+            "instance": 3041,
             "color": "#f37735"
         },
         {
@@ -331,6 +358,15 @@
             "coins":"NM 150",
             "quest": 92151,
             "instance": 9739,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["vgmm"],
+            "name": "Manglemire",
+            "ilvl":"NM 452",
+            "coins":"NM 150",
+            "quest": 92129,
+            "instance": 9070,
             "color": "#00aedb"
         },
         {
