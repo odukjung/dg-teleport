@@ -1,11 +1,12 @@
 # dg-teleport
 Fast teleport to every important dungeon with GUI or not
 
-# Update 02/26/2021
-- Add Killing Grounds "kg", "kgh"
+# Update 05/07/2021
+- RK-9 Kennel ["rk", "rkn", "rknm", "rkh", "rkhm"]
+- DRC ["DC", "DRC"]
 
-# Opcode for EU 103
-C_REQUEST_EVENT_MATCHING_TELEPORT = 49982
+# Opcode for EU
+Link : https://github.com/odukjung/Tera-Def-Op-code
 
 ## Usage
 ### `dg` | `go`
@@ -24,7 +25,7 @@ C_REQUEST_EVENT_MATCHING_TELEPORT = 49982
 - Gossamer Vault ["gv", "gvn", "gvh"] (ded)
 - Grotto of Lost Souls ["gls", "glsn", "glsnm", "glsh", "glshm"] (ded)
 - Antaroth's Abyss ["aa", "aan", "aanm", "aah", "aahm", "ai", "ain", "aih"] (ded)
-- RK-9 Kennel ["rk", "rkn", "rknm", "rkh", "rkhm"] (ded)
+- RK-9 Kennel ["rk", "rkn", "rknm", "rkh", "rkhm"]
 - Red Refuge ["rr"] (ded)
 - Velik's Sanctuary ["vs", "vsn", "vsnm", "vsh", "vshm"] (ded)
 - Velik's Hold ["vh"] (ded)
