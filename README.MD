@@ -3,7 +3,7 @@ Fast teleport to every important dungeon with GUI or not
 
 # Update 05/07/2021
 - RK-9 Kennel ["rk", "rkn", "rknm", "rkh", "rkhm"]
-- DRC ["DC", "DRC"]
+- DRC ["dc", "drc"]
 
 # Opcode for EU
 Link : https://github.com/odukjung/Tera-Def-Op-code
