@@ -242,6 +242,33 @@
             "instance": 3036,
             "color": "#ffc425"
         },
+		{
+            "dg": ["ac2"],
+            "name": "ac2",
+            "ilvl":"1",
+            "coins":"0",
+            "quest": 98358,
+            "instance": 2000,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["ac1"],
+            "name": "ac1",
+            "ilvl":"1",
+            "coins":"0",
+            "quest": 98357,
+            "instance": 2000,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["ac3"],
+            "name": "ac3",
+            "ilvl":"1",
+            "coins":"0",
+            "quest": 98359,
+            "instance": 2000,
+            "color": "#ffc425"
+        },
 		
 		{
             "dg": ["vgfac", "vgac", "vgfa"],
